@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f98a61b5-6148-4354-962d-0d12ed216aa3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/src/com/example/objects/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/src/com/example/objects/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/objects/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/com/example/objects/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_two.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Task_two/com/objects/Palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/objects/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +45,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-18",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3137931"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.com.objects.Palindrome">
     <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.objects.Palindrome" />
       <module name="src" />
@@ -59,8 +66,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.objects.Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.objects.Palindrome" />
+      <module name="Task_two" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.objects.Palindrome" />
         <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
